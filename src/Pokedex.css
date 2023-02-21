@@ -1,0 +1,9 @@
+.Pokedex {
+    columns: 4;
+    margin-left: auto;
+}
+
+.Pokedex-item {
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
